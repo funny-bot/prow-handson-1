@@ -12,5 +12,5 @@ terraform.tfvars
 # Secret files
 secrets
 
-# Environment variable file
+# Environment
 .env
